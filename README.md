@@ -27,7 +27,7 @@ A simple chat application built using Node.js, Express, and Socket.io for real-t
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/yourusername/yourrepository.git](https://github.com/clyuu/chat-app.git
    ```
 
 2. **Navigate to the project directory**:
