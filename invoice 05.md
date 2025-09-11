@@ -1,18 +1,16 @@
-# Extraction Report for: `invoice 05.pdf`
+# `invoice 05.pdf` සඳහා විශ්ලේෂණ වාර්තාව
 
-## Summary
-- **Invoice Number**: 5601RF
-- **Invoice Date**: October 05, 2024
-- **Invoice Total**: $ 2,327.85
-- **Payment Terms**: None
+## සාරාංශය
+- **ඉන්වොයිස් අංකය**: 5601RF
+- **ඉන්වොයිස් දිනය**: October 05, 2024
+- **ගෙවිය යුතු මුළු මුදල**: $ 2,327.85
+- **ගෙවීම් කොන්දේසි**: None
 
-## Extraction Confidence
-The average confidence score for the key fields extracted above is **95.19%**.
+## විශ්ලේෂණයේ විශ්වාසනීයත්වය
+ප්‍රධාන දත්ත සඳහා සාමාන්‍ය විශ්වාසනීයත්ව ලකුණු: **95.19%**.
 
-## Extracted Line Items & Tables
-The following tables were found in the document:
-
-### Table 1
+## සොයාගත් වගු සහ Line Items
+### වගුව 1
 
 Date | Description | Timekeeper | Hours | Rate | Amount | 
 --- | --- | --- | --- | --- | --- | ---
@@ -23,4 +21,3 @@ Date | Description | Timekeeper | Hours | Rate | Amount |
 Total Fees |  |  |  |  | $ 2,586.50 | 
 Fee Discount |  |  |  |  | $ (258.65) | 
 Total | Adjusted Fees on This Invoice |  |  |  | $ 2,327.85 | 
-
