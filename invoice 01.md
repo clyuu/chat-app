@@ -39,9 +39,9 @@ Transaction Fee G3 | 0,40 € | 0 | 0,00 €
 Transaction Fee G4 | 0,40 € | 0 | 0,00 €
 Transaction Fee G5 | 0,30 € | 0 | 0,00 €
 Transaction Fee G6 | 0,30 € | 0 | 0,00 €
- | Total |  | 381,12 €
+Total |  |  | 381,12 €
  | VAT 19% |  | 72,41€
- | Gross Amount | incl. VAT | 453,53€
+Gross Amount incl. VAT |  |  | 453,53€
 
 ### Table 3
 
@@ -63,10 +63,10 @@ user-account-1 | 10 | 0 | 99 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 154,30 €
 
 ### Table 6
 
-Transaction Type | T1 | T2 | T3 | T4 | T5 | T6 | G1 | G2 | G3 | G4 | G5 | G6
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Queries in Total | 14 | 0 | 162 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
-Total in Euro | 8,12 € | 0,00 € | 243,00 € | 0,00 € | 0,00 € | 0,00 € | 0,00 € | 0,00 € | 0,00 € | 0,00 € | 0,00 € | 0,00 €
+Transaction Fee Seg | T1: | T2: | T3: | T4: | T5: | T6: | G1: | G2: | G3: | G4: | G5: | G6: | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Queries in Total: |  |  |  |  |  |  |  |  |  |  |  |  | 0
+Total in Euro: |  |  |  |  |  |  |  |  |  |  |  |  | 0,00 €
 
 ### Table 7
 
@@ -87,7 +87,7 @@ Total in Euro | 8,12 € | 0,00 € | 243,00 € | 0,00 € | 0,00 € | 0,00 �
 
 ### Table 8
 
-Transaction Type | T1 | T2 | T3 | T4 | T5 | T6
---- | --- | --- | --- | --- | --- | ---
-Price per Query (€) | 0,58 | 0,70 | 1,50 | 0,50 | 0,80 | 1,80
+ | Price | for each | Query in | Euro: | 
+--- | --- | --- | --- | --- | ---
+0,58 | 0,70 | 1,50 | 0,50 | 0,80 | 1,80
 
