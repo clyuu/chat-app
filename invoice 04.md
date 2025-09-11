@@ -12,7 +12,7 @@
 ## සොයාගත් වගු සහ Line Items
 ### වගුව 1
 
-Total Fees | $9,692.00
---- | ---
-Total Disbursements | $4,905.00
-Total Fees and Disbursements This Statement | $14,597.00
+| Total Fees | $9,692.00 |
+|--- | ---|
+| Total Disbursements | $4,905.00 |
+| Total Fees and Disbursements This Statement | $14,597.00 |
