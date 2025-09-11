@@ -1,13 +1,13 @@
-# `invoice 02.pdf` සඳහා විශ්ලේෂණ වාර්තාව
+# Analysis Report for `invoice 02.pdf`
 
-## සාරාංශය
-- **ඉන්වොයිස් අංකය**: 79702 3A
-- **ඉන්වොයිස් දිනය**: සොයාගත නොහැකි විය
-- **ගෙවිය යුතු මුළු මුදල**: $75.00
-- **ගෙවීම් කොන්දේසි**: සොයාගත නොහැකි විය
+## Summary
+- **Invoice Number**: 79702 3A
+- **Invoice Date**: Not found
+- **Invoice Total**: $75.00
+- **Payment Terms**: Not found
 
-## සොයාගත් වගු සහ Line Items
-### වගුව 1
+## Extracted Tables and Line Items
+### Table 1
 
 | Description | Quantity | Unit Price | Amount |
 |--- | --- | --- | ---|
@@ -17,7 +17,7 @@
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-### වගුව 2
+### Table 2
 
 | Sub Total: | $75.00 |
 |--- | ---|
@@ -25,7 +25,7 @@
 | Total Amount: | $75.00 |
 | Payments: | $0.00 |
 | Balance Due: | $75.00 |
-### වගුව 3
+### Table 3
 
 | Patient Name: | SEAN JEAN |
 |--- | ---|

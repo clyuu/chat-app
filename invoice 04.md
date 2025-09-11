@@ -1,13 +1,13 @@
-# `invoice 04.pdf` සඳහා විශ්ලේෂණ වාර්තාව
+# Analysis Report for `invoice 04.pdf`
 
-## සාරාංශය
-- **ඉන්වොයිස් අංකය**: 707b1
-- **ඉන්වොයිස් දිනය**: සොයාගත නොහැකි විය
-- **ගෙවිය යුතු මුළු මුදල**: $14,597.00
-- **ගෙවීම් කොන්දේසි**: සොයාගත නොහැකි විය
+## Summary
+- **Invoice Number**: 707b1
+- **Invoice Date**: Not found
+- **Invoice Total**: $14,597.00
+- **Payment Terms**: Not found
 
-## සොයාගත් වගු සහ Line Items
-### වගුව 1
+## Extracted Tables and Line Items
+### Table 1
 
 | Total Fees | $9,692.00 |
 |--- | ---|

@@ -1,13 +1,13 @@
-# `invoice 05.pdf` සඳහා විශ්ලේෂණ වාර්තාව
+# Analysis Report for `invoice 05.pdf`
 
-## සාරාංශය
-- **ඉන්වොයිස් අංකය**: 5601RF
-- **ඉන්වොයිස් දිනය**: සොයාගත නොහැකි විය
-- **ගෙවිය යුතු මුළු මුදල**: $ 2,327.85
-- **ගෙවීම් කොන්දේසි**: සොයාගත නොහැකි විය
+## Summary
+- **Invoice Number**: 5601RF
+- **Invoice Date**: Not found
+- **Invoice Total**: $ 2,327.85
+- **Payment Terms**: Not found
 
-## සොයාගත් වගු සහ Line Items
-### වගුව 1
+## Extracted Tables and Line Items
+### Table 1
 
 | Date | Description | Timekeeper | Hours | Rate | Amount |  |
 |--- | --- | --- | --- | --- | --- | ---|
