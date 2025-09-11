@@ -44,31 +44,29 @@ Transaction Fee G6 | 0,30 € | 0 | 0,00 €
  | Gross Amount | incl. VAT | 453,53€
 
 ### Table 3
-*This table has an unusual structure and is displayed as raw text for clarity.*
-```
+
 Request sections: | T1: | T2: | T3: | T4: | T5: | T6: | G1: | G2: | G3: | G4: | G5: | G6:
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Amount in Euro: | 0,58 | 0,70 | 1,50 | 0,50 | 0,80 | 1,80 | 0,30 | 0,30 | 0,40 | 0,40 | 0,30 | 0,30
-```
 
 ### Table 4
-*This table has an unusual structure and is displayed as raw text for clarity.*
-```
+
 user-account-2 | 4 | 0 | 63 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 96,82€
-```
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+
 
 ### Table 5
-*This table has an unusual structure and is displayed as raw text for clarity.*
-```
+
 user-account-1 | 10 | 0 | 99 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 154,30 €
-```
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+
 
 ### Table 6
-*This table has an unusual structure and is displayed as raw text for clarity.*
-```
+
 Transaction Fee Seg | T1: | T2: | T3: | T4: | T5: | T6: | G1: | G2: | G3: | G4: | G5: | G6: | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Queries in Total: | 14 | 0 | 162 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
 Total in Euro: | 8,12 € | 0,00 € | 243,00 € | 0,00 € | 0,00 € | 0,00 € | 0,00 € | 0,00 € | 0,00 € | 0,00 € | 0,00 € | 0,00 € | 
-```
 
 ### Table 7
 
