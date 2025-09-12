@@ -4,7 +4,7 @@
 - **Invoice Number**: INV-3337
 - **Invoice Date**: January 31, 2016
 - **Invoice Total**: $93.50
-- **Payment Terms**: Not found
+- **Payment Terms**: Payment is due within 30 days from date of invoice. Late payment is subject to fees of 5% per month.
 
 ## Extracted Tables and Line Items
 ### Table 1

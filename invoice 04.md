@@ -4,7 +4,7 @@
 - **Invoice Number**: 707b1
 - **Invoice Date**: October 1, 2024
 - **Invoice Total**: $14,597.00
-- **Payment Terms**: Not found
+- **Payment Terms**: Please contact accounts payable for billing details and payment information.
 
 ## Extracted Tables and Line Items
 ### Table 1
