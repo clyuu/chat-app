@@ -2,7 +2,7 @@
 
 ## Summary
 - **Invoice Number**: INV-3337
-- **Invoice Date**: Not found
+- **Invoice Date**: January 31, 2016
 - **Invoice Total**: $93.50
 - **Payment Terms**: Not found
 

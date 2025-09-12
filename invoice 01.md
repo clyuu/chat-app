@@ -2,9 +2,9 @@
 
 ## Summary
 - **Invoice Number**: 123100401
-- **Invoice Date**: Not found
+- **Invoice Date**: 1. März 2024
 - **Invoice Total**: 453,53€
-- **Payment Terms**: Not found
+- **Payment Terms**: Immediate payment without discount. Any bank charges must be paid by the invoice recipient. Bank fees at our expense will be charged to the invoice recipient!
 
 ## Extracted Tables and Line Items
 ### Table 1

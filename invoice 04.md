@@ -2,7 +2,7 @@
 
 ## Summary
 - **Invoice Number**: 707b1
-- **Invoice Date**: Not found
+- **Invoice Date**: October 1, 2024
 - **Invoice Total**: $14,597.00
 - **Payment Terms**: Not found
 

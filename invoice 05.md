@@ -2,7 +2,7 @@
 
 ## Summary
 - **Invoice Number**: 5601RF
-- **Invoice Date**: Not found
+- **Invoice Date**: October 05, 2024
 - **Invoice Total**: $ 2,327.85
 - **Payment Terms**: Not found
 

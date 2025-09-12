@@ -2,9 +2,9 @@
 
 ## Summary
 - **Invoice Number**: 79702 3A
-- **Invoice Date**: Not found
+- **Invoice Date**: 06/13/2025
 - **Invoice Total**: $75.00
-- **Payment Terms**: Not found
+- **Payment Terms**: 60 Days
 
 ## Extracted Tables and Line Items
 ### Table 1
